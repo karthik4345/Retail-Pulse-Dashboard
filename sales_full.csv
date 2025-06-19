@@ -1,0 +1,9 @@
+Log_ID,Store_ID,Store_Name,State,District,Product_ID,Product_Name,Week_Start,Units_Sold
+L004,S004,"Green Grocers",Karnataka,Chamrajnagar,P001,"Rice (5kg)",08-04-2025,50
+L001,S001,"Ram Traders","Andhra Pradesh ",Nellore,P001,"Rice (5kg)",01-04-2025,45
+L003,S003,"Maa Durga Mart",Bihar,Patna,P002,"Toor Dal (1kg)",01-04-2025,20
+L002,S002,"Lakshmi Stores","Tamil Nadu",Tirunelveli,P003,"Lifebuoy Soap",01-04-2025,32
+L007,S007,"Buddi Shop","Telangana ",Secunderabad,P004,"Tata Salt (1kg)",06-04-2025,35
+L008,S008,"Akbar Grocery ","Telanagana ","Secunderabad ",P005,"Parle-G Biscuit",09-04-2025,30
+L005,S005,"Karthik's Mart ","Andhra Pradesh ","West Godavari ",P005,"Parle-G Biscuit",08-04-2025,65
+L006,S006,"Srikanth Kirana ",Telangana,Secunderabad,P006,"Nandini Milk 1L",07-04-2025,43
