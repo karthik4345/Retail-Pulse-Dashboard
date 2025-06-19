@@ -12,6 +12,12 @@ A fully interactive Power BI dashboard for analyzing sales performance across pr
 
 The **Retail Pulse Dashboard** is a business intelligence solution designed to help retail managers, analysts, and stakeholders track product-wise and store-wise sales, identify trends, and make data-driven decisions.
 
+
+📄 [SQL Script](./SQL/sales_summary.sql)  
+📊 [Data CSV](./Data/sales_summary.csv)  
+📈 [Dashboard File](./PowerBI/Retail_Pulse_Dashboard.pbix)
+
+
 ---
 
 ## 🧠 Tools & Technologies
