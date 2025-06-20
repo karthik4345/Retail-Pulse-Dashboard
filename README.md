@@ -1,9 +1,10 @@
-[![Dashboard](./Dashboard.png)](https://github.com/karthik4345/Retail-Pulse-Dashboard/blob/2527a80219c1117beb371acf939608081b913a97/Dashboard%20.png)
 # 🛒 Retail Pulse Dashboard
 
 A business-ready **Power BI dashboard** project that visualizes retail sales performance across multiple product categories and store locations. This project is designed to help stakeholders track sales trends, product contributions, and regional store performance using clean and interactive visuals.
 
 ---
+![Dashboard](dashboard.png)
+
 
 ## 📊 Dashboard Overview
 
