@@ -1,4 +1,4 @@
-[Dashboard .png](https://github.com/karthik4345/Retail-Pulse-Dashboard/blob/2527a80219c1117beb371acf939608081b913a97/Dashboard%20.png)
+[![Dashboard](./Dashboard.png)](https://github.com/karthik4345/Retail-Pulse-Dashboard/blob/2527a80219c1117beb371acf939608081b913a97/Dashboard%20.png)
 # 🛒 Retail Pulse Dashboard
 
 A business-ready **Power BI dashboard** project that visualizes retail sales performance across multiple product categories and store locations. This project is designed to help stakeholders track sales trends, product contributions, and regional store performance using clean and interactive visuals.
@@ -21,26 +21,23 @@ The dashboard is built in Power BI using data from cleaned CSV and SQL sources.
 ## 📂 Project Structure
 
 Retail-Pulse-Dashboard/
-│
-├── reports/
-│ └── Retail Pulse Dashboard.pbix # Power BI report file
-│
-├── data/
-│ ├── Product_Master.csv # Product details
-│ ├── Store_Master.csv # Store details
-│ ├── Sales_Log.csv # Raw sales log
-│ ├── sales_full.csv # Cleaned merged dataset
-│ └── sales_summary.csv # Aggregated summary table
-│
-├── sql_queries/
-│ ├── sales full.sql # SQL logic to merge sales
-│ ├── sales_summary.sql # Query to summarize sales
-│ └── local basket query.sql # Special product group query
-│
-├── Screenshots/
-│ └── dashboard_preview.png # Dashboard image for README
-│
+├── data/ # Cleaned data files used in Power BI
+│ ├── Product_Master.csv
+│ ├── Sales_Log.csv
+│ ├── Store_Master.csv
+│ ├── sales_full.csv
+│ └── sales_summary.csv
+
+├── sql_queries/ # SQL scripts used for data cleaning & summarization
+│ ├── sales_full.sql
+│ ├── sales_summary.sql
+│ └── local basket query.sql
+
+├── reports/ # Power BI dashboard file
+│ └── Retail Pulse Dashboard.pbix
+
 └── README.md # Project documentation
+
 
 ## 📌 Key Features
 
